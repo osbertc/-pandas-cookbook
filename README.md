@@ -1,5 +1,6 @@
 # -pandas-cookbook
-self-learning material
+self-learning material.
+pandas on jupyter notebook.
 
 
 
