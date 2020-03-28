@@ -24,6 +24,7 @@ pandas on jupyter notebook.
 2020-03-28 Completed   
 [X] A quick tour of IPython Notebook.ipynb  
 [X] Chapter 1 - Reading from a CSV.ipynb  
+2020-03-29 Completed
 [X] Chapter 2 - Selecting data & finding the most common complaint type.ipynb  
 [] Chapter 3 - Which borough has the most noise complaints (or, more selecting data).ipynb  
 [] Chapter 4 - Find out on which weekday people bike the most with groupby and aggregate.ipynb  
