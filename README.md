@@ -12,8 +12,8 @@ pandas on jupyter notebook.
  - open with jupyter notebook.   
  - ipython notebook open on IE instead.    
  - as I prefer chrome rather than IE, URLS is coped and paste on chrome:   
-      http://127.0.0.1:8888/?token=f5d33290433846ef86d84521a299decc84f5146db3d2a46e   
- 
+ > http://127.0.0.1:8888/?token=f5d33290433846ef86d84521a299decc84f5146db3d2a46e   
+ > token varies every time
 
 # Quick reference list:  
 [Pandas tutor](https://github.com/jvns/pandas-cookbook)  
