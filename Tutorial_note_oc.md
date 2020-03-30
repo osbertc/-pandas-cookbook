@@ -1,4 +1,4 @@
-# -pandas-cookbook   
+# pandas-cookbook   
 self-learning material.   
 pandas on jupyter notebook.   
 
